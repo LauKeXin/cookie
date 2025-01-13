@@ -1,2 +1,2 @@
-# cookie.house
+# cookiehouse
 about cookie house
